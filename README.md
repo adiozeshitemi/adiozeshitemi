@@ -1,3 +1,5 @@
+<img align="right" width="230" src="portrait.svg" alt="Illustrated portrait of Adioz Eshitemi, engraved in a gold plate">
+
 <h1>Hi, I'm Adioz Eshitemi 👋</h1>
 
 <p>
@@ -7,6 +9,8 @@
   🪶 Small, quantized models that meet tight latency budgets on CPU<br>
   💼 Open to senior and staff engineering roles
 </p>
+
+<br clear="right">
 
 <hr>
 
