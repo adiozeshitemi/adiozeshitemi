@@ -45,7 +45,7 @@
 <h2>📈 GitHub Stats</h2>
 
 <p>
-  <img height="165" alt="Adioz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adiozeshitemi&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=08090b&title_color=e9c460&icon_color=c4973a&text_color=c3c8ce&ring_color=e9c460&border_color=343a41">
+  <img height="165" alt="Adioz's contributions and streaks" src="https://streak-stats.demolab.com/?user=adiozeshitemi&background=08090b&border=343a41&stroke=343a41&ring=e9c460&fire=e9c460&currStreakNum=e9c460&sideNums=e9c460&currStreakLabel=c3c8ce&sideLabels=c3c8ce&dates=8e959e&date_format=M%20j%5B%2C%20Y%5D">
   <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiozeshitemi&layout=compact&langs_count=8&bg_color=08090b&title_color=e9c460&text_color=c3c8ce&border_color=343a41">
 </p>
 
